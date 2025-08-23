@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Screaky</h1>
 
-- Developper student exploring dev world.
-- Studying at [42 School](https://42.fr/en/homepage/) learning computer science / programming.
+- 💻 Developper student exploring dev world.
+- 📖 Studying at [42 School](https://42.fr/en/homepage/) learning computer science / programming.
 - 🔭 I’m currently working on [camagru](https://github.com/ScreakyG/camagru) (light social media app from sratch).
 - 🌱 I’m currently learning web dev.
 
@@ -24,8 +24,5 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
 ![virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
