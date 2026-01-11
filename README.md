@@ -2,8 +2,7 @@
 
 - 💻 Developper student exploring dev world.
 - 📖 Studying at [42 School](https://42.fr/en/homepage/) learning computer science / programming.
-- 🔭 I’m currently working on [camagru](https://github.com/ScreakyG/camagru) (light social media app from sratch).
-- 🌱 I’m currently learning web dev , JavaScript.
+- 🔭 I’m currently working on [snow-crash](https://github.com/ketzon/snowcrash) (Cybersecurity project / CTF).
 
  ## Main Expertise
 
