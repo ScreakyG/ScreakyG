@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Screaky</h1>
 
-- 💻 Developper student exploring dev world.
+- 💻 Developper student
 - 📖 Studying at [42 School](https://42.fr/en/homepage/) learning computer science / programming.
 - 🔭 I’m currently working on [snow-crash](https://github.com/ketzon/snowcrash) (Cybersecurity project / CTF).
 
